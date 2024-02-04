@@ -1,0 +1,3 @@
+BACKEND
+npm init -y --> will create package.json file
+In order to craete the server we need to install express
