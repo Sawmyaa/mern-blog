@@ -1,3 +1,7 @@
 BACKEND
 npm init -y --> will create package.json file
 In order to craete the server we need to install express
+mpm i nodemon --> so we don't need to run the server again and again
+
+DATABASE
+connect to our database(MongoDB) --> npm i mongoose
